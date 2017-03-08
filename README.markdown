@@ -1,5 +1,9 @@
 # Computer Programming Skills (48021503-3)
 
+<img src="Misc/UQU-LOGO-1024x731.png" width="100%" />
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/youldash.svg?style=social?style=plastic)](https://twitter.com/youldash)
+
 Here you'll find implementations of various programming topics in C, with detailed explanations of how they work.
 
 If you're a **UQU Computer Science student** who needs to learn this stuff for exams/quizzes -- or if you're a self-taught programmer who wants to brush up on the theory behind your craft -- you've come to the right place!
