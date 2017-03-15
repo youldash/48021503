@@ -15,12 +15,12 @@ If you're a **UQU Computer Science/Engineering student** who needs to learn this
 Course content:
 
 - [Chapter 1](https://github.com/youldash/48021503/tree/master/Chapter%201)
-- [Chapter 2](Chapter 2/)
-- [Chapter 3](Chapter 3/)
-- [Chapter 4](Chapter 4/)
-- [Chapter 5](Chapter 5/)
-- [Chapter 6](Chapter 6/)
-- [Chapter 7](Chapter 7/)
+- [Chapter 2](https://github.com/youldash/48021503/tree/master/Chapter%202)
+- [Chapter 3](https://github.com/youldash/48021503/tree/master/Chapter%203)
+- [Chapter 4](https://github.com/youldash/48021503/tree/master/Chapter%204)
+- [Chapter 5](https://github.com/youldash/48021503/tree/master/Chapter%205)
+- [Chapter 6](https://github.com/youldash/48021503/tree/master/Chapter%206)
+- [Chapter 7](https://github.com/youldash/48021503/tree/master/Chapter%207)
 
 ## Resources
 
