@@ -14,13 +14,13 @@ If you're a **UQU Computer Science/Engineering student** who needs to learn this
 
 Course content:
 
-- [Chapter 1](https://github.com/youldash/48021503/tree/master/Chapter%201)
-- [Chapter 2](https://github.com/youldash/48021503/tree/master/Chapter%202)
-- [Chapter 3](https://github.com/youldash/48021503/tree/master/Chapter%203)
-- [Chapter 4](https://github.com/youldash/48021503/tree/master/Chapter%204)
-- [Chapter 5](https://github.com/youldash/48021503/tree/master/Chapter%205)
-- [Chapter 6](https://github.com/youldash/48021503/tree/master/Chapter%206)
-- [Chapter 7](https://github.com/youldash/48021503/tree/master/Chapter%207)
+- [Chapter 1 (Introduction to the Computer Programming Paradigm )](https://github.com/youldash/48021503/tree/master/Chapter%201)
+- [Chapter 2 (Introduction to C Programming)](https://github.com/youldash/48021503/tree/master/Chapter%202)
+- [Chapter 3 (Input/Output and Operators)](https://github.com/youldash/48021503/tree/master/Chapter%203)
+- [Chapter 4 (Selection Structure)](https://github.com/youldash/48021503/tree/master/Chapter%204)
+- [Chapter 5 (Repetition Structure)](https://github.com/youldash/48021503/tree/master/Chapter%205)
+- [Chapter 6 (Arrays)](https://github.com/youldash/48021503/tree/master/Chapter%206)
+- [Chapter 7 (Functions)](https://github.com/youldash/48021503/tree/master/Chapter%207)
 
 ## Resources
 
