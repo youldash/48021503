@@ -6,7 +6,7 @@
 
 Here you'll find implementations of various programming topics in C, with detailed explanations of how they work.
 
-If you're a **UQU Computer Science student** who needs to learn this stuff for exams/quizzes -- or if you're a self-taught programmer who wants to brush up on the theory behind your craft -- you've come to the right place!
+If you're a **UQU Computer Science/Engineering student** who needs to learn this stuff for exams/quizzes -- or if you're a self-taught programmer who wants to brush up on the theory behind your craft -- you've come to the right place!
 
 > Please note: This is a work in progress...
 
