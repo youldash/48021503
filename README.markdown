@@ -25,6 +25,8 @@ Course content:
 ## Resources
 
 - [السي الشامل](Misc/C.pdf)
+- [System Programming (Online Compiler)](https://remisharrock.github.io/sysbuild/#/VM)
+- [C++ Shell (Online Compiler)](http://cpp.sh)
 
 ## License
 
