@@ -16,9 +16,9 @@
 
 ## C Program Lifecycle
 
-![Screenshot](https://github.com/youldash/48021503/master/Misc/C.Lang.001.png)
+![Screenshot](https://github.com/youldash/48021503/raw/master/Misc/C.Lang.001.png)
 
-![Screenshot](https://github.com/youldash/48021503/master/Misc/C.Lang.002.png)
+![Screenshot](https://github.com/youldash/48021503/raw/master/Misc/C.Lang.002.png)
 
 ## Sample Code
 
