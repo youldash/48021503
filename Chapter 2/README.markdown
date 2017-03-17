@@ -24,5 +24,5 @@
 
 Listings:
 
-- [Listing 1 (A first program in C)](https://github.com/youldash/48021503/tree/master/Chapter%201)
-- [Listing 2 (Another simple C program)](https://github.com/youldash/48021503/tree/master/Chapter%202)
+- [Listing 1 (A first program in C)](https://github.com/youldash/48021503/blob/master/Chapter%202/Listing%201/Program.c)
+- [Listing 2 (Another simple C program)](https://github.com/youldash/48021503/blob/master/Chapter%202/Listing%202/Program.c)
